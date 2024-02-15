@@ -1,0 +1,27 @@
+{
+  "name": "live-betting-app",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint",
+    "jest": "jest"
+  },
+  "dependencies": {
+    "@testing-library/react": "^14.0.0",
+    "babel-plugin-styled-components": "^2.1.4",
+    "babel-preset-next": "^1.4.0",
+    "eslint": "8.49.0",
+    "eslint-config-next": "13.4.19",
+    "next": "13.4.19",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "styled-components": "^6.0.7"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0",
+    "jest-environment-jsdom": "^29.7.0"
+  }
+}
